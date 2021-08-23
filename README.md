@@ -13,7 +13,7 @@ Gameplay
 All images have been created by myself using google draw.
 
 
-TOD0:
+TODO:
 - Improve betting algorithm (prevent from raising multiple times within a betting round)
 - Fix bug with tie breaks (should display all winners after hand and pot is shared)
 
